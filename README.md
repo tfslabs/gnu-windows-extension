@@ -1,6 +1,6 @@
 # GNU Windows Extension
 
-This template helps a lot in building docs and understanding GNU Windows Extension source code, build and other related documents
+This template helps a lot in building docs and understanding GNU Windows Extension source code, building and other related documents
 
 ## Build this library
 
@@ -12,12 +12,16 @@ To build this library, you will need:
 
 > :warning:
 >
-> Make sure you can run `make`, `gcc`  and `g++` from the command line without any issues.
+> Ensure you can run `make`, `gcc`  and `g++` from the command line without issues.
+
+Additionally, you may need to install these libraries:
+
+* [Lib 1]()
 
 Just run the  following commands in a terminal window to get started:
 
 ```cmd
-build.bat
+build.cmd
 ```
 
 Once it's done, you can see your bin. You can then paste it into your GNU Windows installation folder.
