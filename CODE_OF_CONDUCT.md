@@ -4,7 +4,7 @@ At TheFlightSims, we recognize and celebrate the creativity and collaboration of
 source contributors and the diversity of skills, experiences, cultures, and
 opinions they bring to the projects and communities they participate in.
 
-Everyone of the communities are inclusive environments, based on treating 
+Everyone of the communities are inclusive environments, based on treating
 all individuals respectfully, regardless of
 gender identity and expression, sexual orientation, disabilities,
 neurodiversity, physical appearance, body size, ethnicity, nationality, race,

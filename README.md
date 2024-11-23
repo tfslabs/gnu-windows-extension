@@ -2,6 +2,8 @@
 
 This template helps a lot in building docs and understanding GNU Windows Extension source code, building and other related documents
 
+For source code extraction from MSys2 repos procedure (admins only), please review in [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## Build this library
 
 To build this library, you will need:
